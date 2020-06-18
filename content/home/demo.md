@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Pediatric Tumor Cell Atlas"
+title = "Childhood Brain Tumor Cell Atlas"
 subtitle = "Mapping tumors at single cell resolution"
 
 [design]
@@ -49,5 +49,3 @@ subtitle = "Mapping tumors at single cell resolution"
  # CSS class.
  css_class = ""
 +++
-
-More verbose description of the goals of the cell atlas project.

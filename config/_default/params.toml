@@ -88,11 +88,11 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "andrew.donson@cuanschutz.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Dept of Pediatrics and The Morgan Adams Foundation Pediatric Brain Tumor Research Program", city = "Aurora", region = "CO", postcode = "80045", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

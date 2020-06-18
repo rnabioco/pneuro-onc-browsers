@@ -1,7 +1,7 @@
 ---
-title: EPN
-summary: A short description about epn dataset
-tags:
+title: A survey of childhood Ependymoma
+summary: "scRNA-seq of 26 childhood ependymoma samples"
+tags: 
 - Cell Atlases
 date: "2020-06-10T00:00:00Z"
 
@@ -9,17 +9,23 @@ date: "2020-06-10T00:00:00Z"
 external_link: ""
 
 image:
-  caption: A UMAP
+  caption: UMAP of tumor populations
   focal_point: Smart
 
 links:
 - url: https://d5mpbfetxdliy.cloudfront.net
   name: UCSC Cell Browser
 
-- icon: github
-  icon_pack: fab
-  name: Analysis Code
-  url: https://github.com/rnabioco
+- url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126025
+  name: GEO dataset
+  
+- url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3474066
+  name: Manuscript
+  
+# - icon: github
+#   icon_pack: fab
+#   name: Analysis Code
+#   url: https://github.com/rnabioco
   
 
 
@@ -36,11 +42,18 @@ url_video: ""
 slides: example
 ---
 
-Description of Data: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Droplet-based (10x Chromium) single cell RNA-seq UMAP of 11,200 neoplastic cells from 26 childhood ependymoma samples (PFA1, PFA2, PFB, ST-RELA, ST-YAP). 
+Accompanies the [study]({{< relref "/content/publication/gillen-2019-hg/index.md">}}) by Gillen et al. “Single-cell RNAseq of childhood ependymoma reveals neoplastic cell subpopulations that impact molecular classification and etiology”.
 
-## Publication
-[Link to publication page]({{< relref "/content/publication/pmid-29925527/index.md">}})
+## Data availability
 
+scRNA-seq and transcriptome data have been deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) database and are publicly accessible through GEO SuperSeries accession number [GSE12602](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126025)
 
+## Supported by
+
+National Institutes of Health (R01 CA237608-01)   
+Cancer League of Colorado (research grant AWD 173796-SV)   
+Tanner Seebaum Foundation  
+Morgan Adams Foundation  
+University of Colorado’s NIH/NCI Cancer Center (P30CA046934)  
