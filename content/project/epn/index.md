@@ -19,7 +19,7 @@ links:
 - url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126025
   name: GEO dataset
   
-- url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3474066
+- url: https://doi.org/10.1016/j.celrep.2020.108023
   name: Manuscript
   
 # - icon: github
@@ -44,7 +44,7 @@ slides: example
 
 
 Droplet-based (10x Chromium) single cell RNA-seq UMAP of 11,200 neoplastic cells from 26 childhood ependymoma samples (PFA1, PFA2, PFB, ST-RELA, ST-YAP). 
-Accompanies the [study]({{< relref "/content/publication/gillen-2019-hg/index.md">}}) by Gillen et al. “Single-cell RNAseq of childhood ependymoma reveals neoplastic cell subpopulations that impact molecular classification and etiology”.
+Accompanies the [study]({{< relref "/content/publication/gillen-2020-ut/index.md">}}) by Gillen et al. “Single-cell RNAseq of childhood ependymoma reveals neoplastic cell subpopulations that impact molecular classification and etiology”.
 
 ## Data availability
 
