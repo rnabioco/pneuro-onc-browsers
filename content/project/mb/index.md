@@ -14,11 +14,15 @@ image:
   focal_point: Smart
 
 links:
+  
 - url: https://d33sxa6bpqwi51.cloudfront.net/
   name: UCSC Cell Browser 
 
 - url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156053
   name: GEO dataset
+  
+- url: https://doi.org/10.1101/2020.08.28.272021
+  name: Preprint
   
 - icon: github
   icon_pack: fab
@@ -41,6 +45,8 @@ slides: example
 ---
 
 We explored cellular heterogeneity in medulloblastoma (MB) using single-cell RNA sequencing (scRNA-seq), immunohistochemistry and deconvolution of bulk transcriptomic data. Over 45,000 cells from 28 patients from all main subgroups of medulloblastoma (1 WNT, 9 SHH, 7 GP3 and 11 GP4) were clustered using Harmony alignment to identify conserved subpopulations.  
+
+Accompanies the [preprint]({{< relref "/content/publication/riemondy-2020-dt/index.md">}}) "Neoplastic and Immune single cell transcriptomics define subgroup-specific intra-tumoral heterogeneity of childhood medulloblastoma"
 
 Data will be made public upon publication. 
 
