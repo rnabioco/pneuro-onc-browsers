@@ -20,6 +20,9 @@ links:
 
 - url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156053
   name: GEO dataset
+
+- url: https://doi.org/10.1093/neuonc/noab135
+  name: Publication
   
 - url: https://doi.org/10.1101/2020.08.28.272021
   name: Preprint
@@ -46,13 +49,13 @@ slides: example
 
 We explored cellular heterogeneity in medulloblastoma (MB) using single-cell RNA sequencing (scRNA-seq), immunohistochemistry and deconvolution of bulk transcriptomic data. Over 45,000 cells from 28 patients from all main subgroups of medulloblastoma (1 WNT, 9 SHH, 7 GP3 and 11 GP4) were clustered using Harmony alignment to identify conserved subpopulations.  
 
-Accompanies the [preprint]({{< relref "/content/publication/riemondy-2020-dt/index.md">}}) "Neoplastic and Immune single cell transcriptomics define subgroup-specific intra-tumoral heterogeneity of childhood medulloblastoma"
-
-Data will be made public upon publication. 
+Accompanies the [manuscript]({{< relref "/content/publication/Riemondy-2021-tg/index.md">}}) "Neoplastic and immune single cell transcriptomics define subgroup-specific intra-tumoral heterogeneity of childhood medulloblastoma"
 
 ## Data and code availability
 
-scRNA-seq and methylation data have been deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) database and will be made publicly accessible through GEO SuperSeries accession number [GSE156053](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156053)
+scRNA-seq and methylation data have been deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) database. [GSE156053](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156053)
+
+A [UCSC cellbrowser](https://d33sxa6bpqwi51.cloudfront.net/) is available for interactive exploration of the data.
 
 Analysis scripts (Rmarkdown) are hosted on github:  [`rnabioco/medulloblast`](https://github.com/rnabioco/medulloblast)
 
