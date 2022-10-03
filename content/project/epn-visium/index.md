@@ -41,3 +41,4 @@ Accompanies the [manuscript]({{< relref "/content/publication/fu-2022-qk/index.m
 ## Data availability
 
 A [Shiny App](https://raysinensis.shinyapps.io/spatialshiny/) is available for interactive exploration of the data.
+
