@@ -14,6 +14,12 @@ image:
   focal_point: Smart
 
 links:
+
+- url: https://doi.org/10.1093/neuonc/noac219
+  name: Publication
+  
+- url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195661
+  name: GEO dataset
   
 - url: https://raysinensis.shinyapps.io/spatialshiny/
   name: Shiny App
@@ -36,9 +42,12 @@ slides: example
 
 Childhood ependymoma (EPN) is a brain tumor that has seen limited improvements in outcome over past decades. The underlying cellular components of EPN have recently been revealed by single cell RNA-sequencing (scRNAseq), providing biological insights. Here we use spatial transcriptomics to comprehensively chart gene expression across the cellular landscape of posterior fossa subgroup A (PFA) EPN, the commonest and most deadly EPN variant, providing novel resolution of cellular heterogeneity and cellular interaction. We reveal that PFA are comprised of epithelial and mesenchymal histological zones each containing a diversity of cellular states. These include co-existing and spatially distinct undifferentiated progenitor-like clusters - a quiescent mesenchymal zone population, and a second highly mitotic progenitor population that is restricted to hypercellular epithelial zones. We show that myeloid cell interaction is the leading cause of mesenchymal transition in PFA, occurring in zones spatially distinct from hypoxia-induced mesenchymal transition, and these distinct EMT-initiating processes were replicated in in-vitro models of PFA. Collectively, our transcriptomic and functional analyses mirror the processes of normal wound healing where PFA mesenchymal and epithelial zones interact with immune subpopulations in cycle of persistent tissue damage response and mitogenic re-epithelialization signals. Spatial transcriptomics advances our understanding of PFA biology, implicating a “wound that will not heal” process as a driver of tumor progression, a new concept that could provide novel targets for effective therapeutic intervention.  
 
-Accompanies the [manuscript]({{< relref "/content/publication/fu-2022-qk/index.md">}}) "Spatial transcriptomic analysis of childhood ependymoma implicates unresolved wound healing as a driver of tumor progression"
+Accompanies the [manuscript]({{< relref "/content/publication/fu-2022-ez/index.md">}}) "Spatial transcriptomic analysis delineates epithelial and mesenchymal subpopulations
+and transition stages in childhood ependymoma"
 
 ## Data availability
+
+ST data have been deposited in the NCBI Gene Expression Omnibus (GEO) database and are publicly accessible through GEO accession number [GSE195661](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195661).
 
 A [Shiny App](https://raysinensis.shinyapps.io/spatialshiny/) is available for interactive exploration of the data.
 
