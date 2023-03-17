@@ -27,7 +27,7 @@ links:
 #   name: Analysis Code
 #   url: https://github.com/rnabioco
   
-weight: 10
+weight: 1
 
 url_code: ""
 url_pdf: ""

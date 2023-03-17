@@ -8,7 +8,7 @@ date: "2020-08-11T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-weight: 20
+weight: 2
 
 image:
   focal_point: Smart
