@@ -18,6 +18,12 @@ links:
 - url: https://d3sr7cjisx2u5u.cloudfront.net/
   name: UCSC Cell Browser 
 
+- url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226961
+  name: GEO dataset
+  
+- url: https://doi.org/10.1093/neuonc/noad096
+  name: Manuscript
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,11 +39,14 @@ slides: example
 
 We examined matched samples of primary and recurrent disease from PFA EPN patients to investigate the biology of recurrence. single-nuclei RNA-seq was performed on 7 matched pairs of primary and 1st relapse tumors.
 
+Accompanies the [study]({{< relref "/content/publication/donson-2023-vs/index.md">}}) by Donson AM et al. "Significant increase of high-risk chromosome 1q gain and 6q loss at recurrence in posterior fossa group A ependymoma: a multicenter study".
+
+
 ## Data and code availability
 
-snRNA-seq, bulk RNA-seq, and methylation data to be deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) database.
+snRNA-seq, bulk RNA-seq, and methylation data are deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) database at accession number [GSE226961](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226961).
 
-A [UCSC cellbrowser](https://d3sr7cjisx2u5u.cloudfront.net/), currently private, will be made available for interactive exploration of the data upon publication.
+A [UCSC cellbrowser](https://d3sr7cjisx2u5u.cloudfront.net/) is available for interactive exploration of the data.
 
 ## Supported by
 
