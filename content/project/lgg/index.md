@@ -43,5 +43,8 @@ A [UCSC cell browser](https://d1j5ptaq3534zo.cloudfront.net), currently private,
 
 Alex’s Lemonade Stand Foundation  
 Morgan Adams Foundation  
+Olivia Caldwell Foundation  
+Amazon Goes Gold  
+Colorado Clinical and Translational Sciences Institute (CCTSI)  
 University of Colorado's NIH/NCI Cancer Center (P30CA046934)  
 
