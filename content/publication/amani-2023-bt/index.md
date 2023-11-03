@@ -1,10 +1,11 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: Integration of single-nuclei RNA-sequencing, spatial transcriptomics and histochemistry
   defines the complex microenvironment of NF1-associated plexiform neurofibromas
-subtitle: ''
-summary: ''
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Vladimir Amani
 - Kent A Riemondy
@@ -17,30 +18,27 @@ authors:
 - Nicholas K Foreman
 - Andrew M Donson
 - Nicholas Willard
-tags: []
-categories: []
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
 date: '2023-09-01'
-lastmod: 2023-09-29T08:53:20-06:00
-featured: false
-draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2023-11-03T18:16:10.861262Z'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-09-29T14:53:20.264207Z'
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- '2'
+- article-journal
+
+# Publication name and optional abbreviated publication name.
+publication: '*Acta Neuropathol Commun*'
+publication_short: ''
+
+doi: 10.1186/s40478-023-01639-1
+
 abstract: Plexiform neurofibroma (PN) is a leading cause of morbidity in children
   with the genetic condition Neurofibromatosis Type 1 (NF1), often disfiguring or
   threatening vital structures. During formation of PN, a complex tumor microenvironment
@@ -68,9 +66,46 @@ abstract: Plexiform neurofibroma (PN) is a leading cause of morbidity in childre
   novel communication pathways that may drive disease progression, a finding that
   could provide translational therapy options for patients with these devastating
   tumors of childhood and early adulthood.
-publication: '*Acta Neuropathol Commun*'
-doi: 10.1186/s40478-023-01639-1
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 links:
 - name: URL
   url: http://dx.doi.org/10.1186/s40478-023-01639-1
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
