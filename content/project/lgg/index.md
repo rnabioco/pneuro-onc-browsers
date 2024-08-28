@@ -15,7 +15,7 @@ image:
 
 links:
 
-- url: https://d1j5ptaq3534zo.cloudfront.net 
+- url: https://d3j7jog9tzamqb.cloudfront.net
   name: UCSC Cell Browser
 
 url_code: ""
