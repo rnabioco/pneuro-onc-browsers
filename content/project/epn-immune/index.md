@@ -15,7 +15,7 @@ image:
 
 links:
   
-- url: https://df5xfrpg50q2t.cloudfront.net/
+- url: https://d3vp0195ukgw56.cloudfront.net/pneuro-onc-epn-immune-browser/index.html
   name: UCSC Cell Browser 
   
 - url: https://doi.org/10.1016/j.isci.2023.107585

@@ -15,7 +15,7 @@ image:
 
 links:
   
-- url: https://d2nywbe3ddspri.cloudfront.net
+- url: https://d3vp0195ukgw56.cloudfront.net/pneuro-onc-pn-browser/index.html
   name: UCSC Cell Browser 
 
 - url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232766

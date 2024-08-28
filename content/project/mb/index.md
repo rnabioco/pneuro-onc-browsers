@@ -15,7 +15,7 @@ image:
 
 links:
   
-- url: https://d33sxa6bpqwi51.cloudfront.net/
+- url: https://d3vp0195ukgw56.cloudfront.net/mbbrowser/index.html
   name: UCSC Cell Browser 
 
 - url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156053

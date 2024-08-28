@@ -15,7 +15,7 @@ image:
 
 links:
   
-- url: https://d3kenlgykdgmyv.cloudfront.net
+- url: https://d3vp0195ukgw56.cloudfront.net/pneuro-onc-phgg-browser/index.html
   name: UCSC Cell Browser 
 
 - url: https://doi.org/10.1093/neuonc/noad207
