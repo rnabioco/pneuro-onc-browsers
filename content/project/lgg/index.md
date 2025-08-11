@@ -18,6 +18,9 @@ links:
 - url: https://d3vp0195ukgw56.cloudfront.net/lggbrowser/index.html
   name: UCSC Cell Browser
 
+- url: https://doi.org/10.1111/bpa.70023
+  name: Publication
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
