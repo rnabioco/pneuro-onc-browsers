@@ -55,7 +55,7 @@ Accompanies the [manuscript]({{< relref "/content/publication/Riemondy-2021-tg/i
 
 scRNA-seq and methylation data have been deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) database. [GSE156053](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156053)
 
-A [UCSC cellbrowser](https://d33sxa6bpqwi51.cloudfront.net/) is available for interactive exploration of the data.
+A [UCSC cellbrowser](https://d3vp0195ukgw56.cloudfront.net/mbbrowser/index.html) is available for interactive exploration of the data.
 
 Analysis scripts (Rmarkdown) are hosted on github:  [`rnabioco/medulloblast`](https://github.com/rnabioco/medulloblast)
 
