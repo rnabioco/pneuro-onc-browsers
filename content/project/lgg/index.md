@@ -3,7 +3,7 @@ title: Multi-pronged analysis of pediatric low-grade glioma reveals a unique tum
 summary: "scRNA-seq of 23 pediatric low-grade glioma (pLGG) patient samples"
 tags:
 - Cell Atlases
-date: "2023-05-31"
+date: "2025-08-11"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,9 +15,12 @@ image:
 
 links:
 
-- url: https://d3j7jog9tzamqb.cloudfront.net
+- url: https://d3vp0195ukgw56.cloudfront.net/lggbrowser/index.html
   name: UCSC Cell Browser
 
+- url: https://doi.org/10.1111/bpa.70023
+  name: Publication
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,11 +36,13 @@ slides: example
 
 We utilized single cell RNA sequencing (scRNA-seq), spatial transcriptomics (ST), and cytokine analyses to characterize and help better understand tumor and immune cell heterogeneity across pLGG tumors. 
 
+Accompanies the [manuscript]({{< relref "/content/publication/zahedi-2025-id/index.md">}}) "Multi-pronged analysis of pediatric low-grade glioma and ganglioglioma reveals a unique tumor microenvironment associated with BRAF alterations"
+  
 ## Data availability
 
 scRNA-seq and spatial transcriptomics data have been deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) database and will be released upon publication.
 
-A [UCSC cell browser](https://d1j5ptaq3534zo.cloudfront.net), currently private, will be made available for interactive exploration of the data upon publication.
+A [UCSC cell browser](https://d3vp0195ukgw56.cloudfront.net/lggbrowser/index.html) is available for interactive exploration of the dataset.
 
 ## Supported by
 

@@ -39,6 +39,7 @@ slides: example
 
 We performed single-cell RNA-Seq on a diverse group of 19 pediatric high-grade glioma (PHGG) patient samples. The samples comprise 5 H3K27M mutant diffuse midline gliomas, 4 epithelioid/giant cell high grade gliomas, 5 radiation induced high grade gliomas, 3 IDH wild-type hemispheric high grade gliomas, 1 diffuse hemispheric glioma H3 G34-mutant and 1 PHGG otherwise unspecified.
 
+Accompanies the [manuscript]({{< relref "/content/publication/de-sisto-2024-pn/index.md">}}) "Tumor and immune cell types interact to produce heterogeneous phenotypes of pediatric high-grade glioma"
 
 
 ## Data availability
